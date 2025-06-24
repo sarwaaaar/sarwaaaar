@@ -1,2 +1,5 @@
+<p align="center">
+  <img src="https://markpaterson.tv/projects/fx_networks_archer_scavenger_hunt_2016_ascii_bound/walk_cycle.gif" style="width: 100%;" />
+</p>
+
 ![snake gif](https://github.com/sarwaaaar/sarwaaaar/blob/output/github-snake-dark.svg)
-![32379](https://github.com/user-attachments/assets/c1a62605-3432-4b30-980e-92371e91b64c)
