@@ -10,7 +10,7 @@
     <thead>
       <tr>
         <td><b>CODING MALWARE</b></td>
-        <td><b>BREAKING STUFF WITH MY MALWARE</b></td>
+        <td><b>BREAKING STUFF WITH MALWARE</b></td>
       </tr>
     </thead>
     <tbody>
