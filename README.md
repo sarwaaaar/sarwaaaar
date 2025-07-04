@@ -25,8 +25,6 @@
     </tbody>
   </table>
 
-  <img height="200" src="https://raw.githubusercontent.com/sarwaaaar/sarwaaaar/output/snake.svg" />
-  
   <table style="margin: auto;">
     <thead>
       <tr>
@@ -66,7 +64,8 @@
     </tbody>
   </table>
 
-  <!-- Flex row for equal-height images -->
+  <img height="200" src="https://raw.githubusercontent.com/sarwaaaar/sarwaaaar/output/snake.svg" />
+
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://lh3.googleusercontent.com/proxy/DaPoohQl33tuW5yOH01wCA4JvnvL2MiEMwnkk2kXKS8GGiehCay3d9CsSQ-EJtim6HpgSPw14MnC5V-V9shYnCAFkzBBBsGYw6JawQtGbs_F7LHSozomUaXvMFnykfbX5EMhCqjmQdjfkD4KzE831x35TfW92w" style="height: 300px; object-fit: cover;" />
     <img src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif" style="height: 300px; object-fit: cover;" />
