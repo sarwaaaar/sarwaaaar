@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/smile.gif" alt="SMILEY" style="height: 40px; object-fit: cover;"/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-    
+
   <table style="margin: auto;">
     <thead>
       <tr>
@@ -24,7 +24,7 @@
       </tr>
     </tbody>
   </table>
-
+  
   <table style="margin: auto;">
     <thead>
       <tr>
@@ -63,11 +63,19 @@
       </tr>
     </tbody>
   </table>
-
+  
   <img height="200" src="https://raw.githubusercontent.com/sarwaaaar/sarwaaaar/output/snake.svg" />
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://lh3.googleusercontent.com/proxy/DaPoohQl33tuW5yOH01wCA4JvnvL2MiEMwnkk2kXKS8GGiehCay3d9CsSQ-EJtim6HpgSPw14MnC5V-V9shYnCAFkzBBBsGYw6JawQtGbs_F7LHSozomUaXvMFnykfbX5EMhCqjmQdjfkD4KzE831x35TfW92w" style="height: 300px; object-fit: cover;" />
-    <img src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif" style="height: 300px; object-fit: cover;" />
-  </div>
+  <table style="margin: auto;">
+      <tr>
+        <td> 
+          <img src="https://lh3.googleusercontent.com/proxy/DaPoohQl33tuW5yOH01wCA4JvnvL2MiEMwnkk2kXKS8GGiehCay3d9CsSQ-EJtim6HpgSPw14MnC5V-V9shYnCAFkzBBBsGYw6JawQtGbs_F7LHSozomUaXvMFnykfbX5EMhCqjmQdjfkD4KzE831x35TfW92w" alt="BALDI" style="height: 200px; object-fit: cover;"/>
+        </td>
+        <td>
+          <img src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif" alt="BALDI" style="height: 200px; object-fit: cover;"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
 </div> 
