@@ -69,10 +69,10 @@
   <table style="margin: auto;">
       <tr>
         <td> 
-          <img src="https://lh3.googleusercontent.com/proxy/DaPoohQl33tuW5yOH01wCA4JvnvL2MiEMwnkk2kXKS8GGiehCay3d9CsSQ-EJtim6HpgSPw14MnC5V-V9shYnCAFkzBBBsGYw6JawQtGbs_F7LHSozomUaXvMFnykfbX5EMhCqjmQdjfkD4KzE831x35TfW92w" alt="BALDI" style="height: 200px; object-fit: cover;"/>
+          <img src="https://lh3.googleusercontent.com/proxy/DaPoohQl33tuW5yOH01wCA4JvnvL2MiEMwnkk2kXKS8GGiehCay3d9CsSQ-EJtim6HpgSPw14MnC5V-V9shYnCAFkzBBBsGYw6JawQtGbs_F7LHSozomUaXvMFnykfbX5EMhCqjmQdjfkD4KzE831x35TfW92w" alt="BALDI" style="height: 300px; object-fit: cover;"/>
         </td>
         <td>
-          <img src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif" alt="BALDI" style="height: 200px; object-fit: cover;"/>
+          <img src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif" alt="BALDI" style="height: 300px; object-fit: cover;"/>
         </td>
       </tr>
     </tbody>
