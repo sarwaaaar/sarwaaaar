@@ -17,10 +17,10 @@
     <tbody>
       <tr>
         <td> 
-          <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/funny-meme-gif-pack-small-version/sticker_7.gif?b353a73c46798a7e57d4b083aac5390b&d=200x200" alt="BALDI" style="height: 150px; object-fit: cover;"/>
+          <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/funny-meme-gif-pack-small-version/sticker_7.gif?b353a73c46798a7e57d4b083aac5390b&d=200x200" style="height: 150px; object-fit: cover;"/>
         </td>
         <td>
-          <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/funny-meme-gif-pack-small-version/sticker_11.gif?b353a73c46798a7e57d4b083aac5390b&d=200x200" alt="BALDI" style="height: 150px; object-fit: cover;"/>
+          <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/funny-meme-gif-pack-small-version/sticker_11.gif?b353a73c46798a7e57d4b083aac5390b&d=200x200" style="height: 150px; object-fit: cover;"/>
         </td>
       </tr>
     </tbody>
@@ -67,7 +67,5 @@
   
   <img height="200" src="https://raw.githubusercontent.com/sarwaaaar/sarwaaaar/output/snake.svg" />
 
-  <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="BALDI" style="height: 400px; object-fit: cover;"/>
-
-
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6da74282623941.5d237c00c3b9f.gif"/>
 </div> 
