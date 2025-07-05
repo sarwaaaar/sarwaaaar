@@ -67,5 +67,5 @@
   
   <img height="200" src="https://raw.githubusercontent.com/sarwaaaar/sarwaaaar/output/snake.svg" />
 
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6da74282623941.5d237c00c3b9f.gif"/>
+  <img src="https://i.pinimg.com/originals/93/f0/4b/93f04b4b1103cc4e6410bb4f831acb6c.gif"/>
 </div> 
