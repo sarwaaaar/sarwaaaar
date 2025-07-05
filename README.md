@@ -66,16 +66,7 @@
   
   <img height="200" src="https://raw.githubusercontent.com/sarwaaaar/sarwaaaar/output/snake.svg" />
 
-  <table style="margin: auto;">
-      <tr>
-        <td> 
-          <img src="https://lh3.googleusercontent.com/proxy/DaPoohQl33tuW5yOH01wCA4JvnvL2MiEMwnkk2kXKS8GGiehCay3d9CsSQ-EJtim6HpgSPw14MnC5V-V9shYnCAFkzBBBsGYw6JawQtGbs_F7LHSozomUaXvMFnykfbX5EMhCqjmQdjfkD4KzE831x35TfW92w" alt="BALDI" style="height: 300px; object-fit: cover;"/>
-        </td>
-        <td>
-          <img src="https://i.pinimg.com/originals/9c/80/3a/9c803a08af83a1b76102af8998c02ca9.gif" alt="BALDI" style="height: 300px; object-fit: cover;"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="BALDI" style="height: 400px; object-fit: cover;"/>
+
 
 </div> 
